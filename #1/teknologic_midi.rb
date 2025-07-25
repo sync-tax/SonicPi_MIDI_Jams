@@ -18,7 +18,7 @@ end
 master = 1
 #---------------------------------------------------------
 #SAMPLES
-s_path = "C:/Users/rober/Desktop/SOUND/samples/Hä/"
+s_path = "C:/Users/Your/Sample/Path"
 
 s = {
   kick: "#{s_path}/kick.wav",
