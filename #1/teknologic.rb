@@ -14,8 +14,6 @@ use_real_time
 live_loop :metro do
   sleep 1
 end
-
-master = 1
 #---------------------------------------------------------
 #SAMPLES
 s_path = "C:/Users/rober/Desktop/SOUND/samples/Hä/"
