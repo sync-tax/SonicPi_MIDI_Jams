@@ -1,2 +1,2 @@
-## Collection of SonicPi Midi Tracks [TeknoLogic]
+## Collection of SonicPi Midi Tracks
 - #1 Umau 
